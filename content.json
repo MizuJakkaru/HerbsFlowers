@@ -1,0 +1,957 @@
+{
+    "Format": "1.28.0",
+    "Changes": [
+        // add items
+        {
+            "Action": "EditData",
+            "Target": "Data/ObjectInformation",
+            "Entries": {
+				// produce
+				"MizuLeo.HerbsFlowers_Allium": "Allium/50/18/Flowers -80/Allium/The flower grows in a sphere to invite as many bees as possible.////12/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Aloe": "Aloe/140/30/Vegetable -75/Aloe/Aloe has long been an important and indispensable ally for burn care and moisturizing skin care.////142/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Basil": "Basil/35/8/Vegetable -75/Basil/Generally speaking, the herb is sweet, slightly minty and slightly peppery.////110/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_BayLeaves": "Bay Leaves/65/5/Vegetable -75/Bay Leaves/An herb that has a slightly bitter taste. Adding a leaf or two when cooking enhances other flavors.////140/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_BeeBalm": "Bee Balm/30/18/Flowers -80/Bee Balm/Small edible flowers that attract bees, butterflies, and hummingbirds!////30/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Bluebonnet": "Bluebonnet/30/-20/Flowers -80/Bluebonnet/A tall, blue lupine flower with a white tip. It's sweet smelling, but not overpowering.////100/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_BlueMist": "Blue Mist/30/18/Flowers -80/Blue Mist/A popular flower with young ladies that originated from a mineral-rich valley.////24/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Buttercup": "Buttercup/20/0/Flowers -80/Buttercup/Yellow buttercups have a warm fragrance to them.////72/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Camellia": "Camellia/80/18/Flowers -80/Camellia/Related to the tea plant. Camelia flowers are often symbols of affection.////76/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Carnation": "Carnation/80/18/Flowers -80/Carnation/A flower often used for formal events and worn on suits.////36/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Catnip": "Catnip/70/8/Vegetable -75/Catnip/The favorite plant of cats the world over.////134/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Chamomile": "Chamomile/40/18/Flowers -80/Chamomile/White daisy like flowers with a scent reminiscent of apples or pineapple.////26/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Chives": "Chives/35/8/Vegetable -75/Chives/A small relative of the spring onion. It's often used in cooking and has a slightly sweet flavor.////108/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Chrysanthemum": "Chrysanthemum/80/18/Flowers -80/Chrysanthemum/A full carnation-like flower with a heady scene that makes one think of earth and herbs.////84/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Cilantro": "Cilantro/35/8/Vegetable -75/Cilantro/The leaves of the coriander plant are called cilantro. It's the flavor of citrus, light and sweet.////156/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_ClarySage": "Clary Sage/30/18/Flowers -80/Clary Sage/Beautiful purple-pink inflorescences that produce a euphoric scent.////28/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Clematis": "Clematis/110/-20/Flowers -80/Clematis/A strange flower with deep purple hues.////54/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Cumin": "Cumin/70/5/Vegetable -75/Cumin/It has a very distinctive flavor with an earthy, nutty, spicy taste. It gives a warm, penetrating aroma to food.////158/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Dahlia": "Dahlia/50/0/Flowers -80/Dahlia/A bushy flower that comes in a rainbow of colors.////18/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Daisy": "Daisy/20/18/Flowers -80/Daisy/A common flower with a simple smell. They are popular with children.////74/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Delphinium": "Delphinium/90/-20/Flowers -80/Delphinium/Many small flowers around a sturdy stem make up this blossom.////39/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Dill": "Dill/65/8/Vegetable -75/Dill/Fresh leaves that have a mildly sharp, green taste with a delicate, sweet crunch.////160/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_FairyDuster": "Fairy Duster/40/0/Flowers -80/Fairy Duster/It's said it looks like a fairy's skirt. A plant from far away arid plains.////48/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Fennel": "Fennel/35/8/Vegetable -75/Fennel/A feathery herb that can be eaten as is or cooked.////136/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Fenugreek": "Fenugreek/35/8/Vegetable -75/Fenugreek/An annual herb with a favor described as a cross between celery and maple.////162/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Freesia": "Freesia/80/18/Flowers -80/Freesia/A fragrant flower known for its cascading buds.////87/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Geranium": "Geranium/80/18/Flowers -80/Geranium/A sturdy flower with simple, bright blooms.////102/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Honeysuckle": "Honeysuckle/110/0/Flowers -80/Honeysuckle/Fragrant yellow flowers with a sweet dew inside.////50/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Hyacinth": "Hyacinth/80/0/Flowers -80/Hyacinth/A wonderful smelling flower. Something about its smell deters mice and deer.////63/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Hydrangea": "Hydrangea/80/-20/Flowers -80/Hydrangea/A cluster of sweet-scented flowers with showy blossoms.////42/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Iris": "Iris/90/-20/Flowers -80/Iris/Used in flower arangements, this flower imparts wisdom or hope.////98/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Lavender": "Lavender/30/0/Flowers -80/Lavender/Such a lovely smelling herb. So calming and relaxing.////4/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Lemongrass": "Lemongrass/45/8/Vegetable -75/Lemongrass/A grassy kind of plant with a scent and flavor reminiscent of lemons.////188/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_LicoriceRoot": "Licorice Root/135/5/Vegetable -75/Licorice Root/The natural growing plant that is the flavoring agent in the popular candy.////186/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Lilac": "Lilac/80/18/Flowers -80/Lilac/A very fragrant flower that is, well, lilac in color.////144/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Lily": "Lily/90/18/Flowers -80/Lily/Said to grow on the banks of a huge river in a far away desert.////60/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Lotus": "Lotus/150/18/Flowers -80/Lotus/The lotus that blooms most beautifully is the one which blooms from the deepest mud.////96/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Lupine": "Lupine/50/-20/Flowers -80/Lupine/A tall, bright flower that comes in a wide variety of colors.////15/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Marjoram": "Marjoram/50/8/Vegetable -75/Marjoram/It has complicated flavor notes and can be slightly bitter.////190/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Mint": "Mint/50/8/Vegetable -75/Mint/The world's most familiar mint scent is the aroma of peppermint.////114/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_MorningGlory": "Morning Glory/110/0/Flowers -80/Morning Glory/Famous for blooming in the morning, they come in faint colors and grow on tangled vines.////78/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Orchid": "Orchid/300/18/Flowers -80/Orchid/A flower famous and notorious with flower-keepers. They require advanced care.////66/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Oregano": "Oregano/50/8/Vegetable -75/Oregano/A warm and aromatic, yet slightly bitter, herb in the mint family.////184/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Pansy": "Pansy/50/18/Flowers -80/Pansy/A colorful flower often used in landscaping.////90/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Parsley": "Parsley/45/8/Vegetable -75/Parsley/A leafy green that is used as an accent in food presentation.////116/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Peony": "Peony/110/18/Flowers -80/Peony/A popular flower with lively colors.////126/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PerillaLeaves": "Perilla Leaves/50/8/Vegetable -75/Perilla Leaves/An herb from far away with a unique scent, often used for cooking.////132/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Petunia": "Petunia/50/-20/Flowers -80/Petunia/A flower that gives off its finest fragrance at dusk.////124/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PinkCat": "Pink Cat/30/18/Flowers -80/Pink Cat/This flower has a minty scent to it.////2/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PitcherPlant": "Pitcher Plant/150/-300/Flowers -80/Pitcher Plant/A swamp-dwelling plant with a bell-shaped bloom that traps insects.////122/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PurpleConeflower": "Purple Coneflower/60/18/Flowers -80/Purple Coneflower/A lovely purple coneflower that’s pleasantly sweet. It is also known as echinacea.////52/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Rafflesia": "Rafflesia/12000/-300/Flowers -80/Rafflesia/A foul-smelling flower that grows to be massive. It's the largest flower in the world.////120/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Rose": "Rose/290/18/Flowers -80/Rose/A rose by any other name would smell as sweet.////10/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					// rose variants
+					"MizuLeo.HerbsFlowers_SpringRose": "Spring Rose/290/18/Flowers -80/Spring Rose/A rose by any other name would smell as sweet.////56/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					"MizuLeo.HerbsFlowers_SummerRose": "Summer Rose/290/18/Flowers -80/Summer Rose/A rose by any other name would smell as sweet.////58/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					"MizuLeo.HerbsFlowers_FallRose": "Fall Rose/290/18/Flowers -80/Fall Rose/A rose by any other name would smell as sweet.////80/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					"MizuLeo.HerbsFlowers_WinterRose": "Winter Rose/290/18/Flowers -80/Winter Rose/A rose by any other name would smell as sweet.////82/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Rosemary": "Rosemary/75/8/Vegetable -75/Rosemary/The smell of rosemary is piney and fresh; familiar but also distinctive.////118/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Sage": "Sage/70/8/Vegetable -75/Sage/Burned ceremonially to cleanse the spirit and welcome positive thoughts.////112/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Tarragon": "Tarragon/60/8/Vegetable -75/Tarragon/Tarragon has a slightly bittersweet flavor and an aroma similar to anise. When used in cooking it goes well with fish, meat, soups and stews.////164/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Thyme": "Thyme/50/8/Vegetable -75/Thyme/An aromatic herb in the mint family, with small rounded leaves and pink flowers.////138/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Turmeric": "Turmeric/100/10/Greens -81/Turmeric/Turmeric is mildly aromatic and has scents of orange or ginger. It has a pungent, bitter flavor.////166/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Violet": "Violet/30/18/Flowers -80/Violet/A small purple flower that favors the shade.////0/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Wormwood": "Wormwood/150/-20/Vegetable -75/Wormwood/Immensely bitter. It can be used to brew absinthe.////182/Mods\\MizuLeo.HerbsFlowers\\Objects",
+
+            	// seeds
+            	"MizuLeo.HerbsFlowers_AlliumSeeds": "Allium Seeds/15/-300/Seeds -74/Allium Seeds/Plant in summer. Takes 4 days to produce a purple puffball flower.////14/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_AloePod": "Aloe Pod/50/-300/Seeds -74/Aloe Pod/Plant these in summer. Takes 4 days to mature.////143/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_BasilSeeds": "Basil Seeds/10/-300/Seeds -74/Basil Seeds/Plant these in spring. Takes 5 days to mature.////111/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_BaySeeds": "Bay Seeds/25/-300/Seeds -74/Bay Seeds/Plant these in winter. Takes 9 days to mature.////141/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_BeeBalmSeeds": "Bee Balm Seeds/10/-300/Seeds -74/Bee Balm Seeds/Plant in fall. Takes 8 days to produce an attractive flower.////31/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_BluebonnetSeeds": "Bluebonnet Seeds/10/-300/Seeds -74/Bluebonnet Seeds/Plant in spring. Takes 7 days to produce a blue lupine flower.////101/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_BlueMistSeeds": "Blue Mist Seeds/10/-300/Seeds -74/Blue Mist Seeds/Plant in summer. Takes 7 days to produce a blue star-shaped flower.////25/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_ButtercupSeeds": "Buttercup Seeds/7/-300/Seeds -74/Buttercup Seeds/Plant in summer. Takes 6 days to produce a flower with dewy nectar within.////73/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_CamelliaSeeds": "Camellia Seeds/25/-300/Seeds -74/Camellia Seeds/Plant in spring. Takes 11 days to produce a bush of white flowers, and keeps producing after the first harvest.////77/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_CarnationSeeds": "Carnation Seeds/20/-300/Seeds -74/Carnation Seeds/Plant in spring or summer. Takes 7 days to produce a formal-looking flower.////38/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_CatnipSeeds": "Catnip Seeds/30/-300/Seeds -74/Catnip Seeds/Plant these in spring. Takes 7 days to mature.////135/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_ChamomileSeeds": "Chamomile Seeds/12/-300/Seeds -74/Chamomile Seeds/Plant in spring. Takes 5 days to produce a calming flower.////27/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_ChiveSeeds": "Chive Seeds/10/-300/Seeds -74/Chive Seeds/Plant these in summer. Takes 5 days to mature.////109/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_ChrysanthemumSeeds": "Chrysanthemum Seeds/20/-300/Seeds -74/Chrysanthemum Seeds/Plant in fall. Takes 9 days to produce a mum-shaped flower.////86/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_CorrianderSeeds": "Corriander Seeds/10/-300/Seeds -74/Corriander Seeds/Plant these in fall. Takes 5 days to mature.////157/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_ClarySageSeeds": "Clary Sage Seeds/10/-300/Seeds -74/Clary Sage Seeds/Plant in summer. Takes 8 days takes to produce purple-pink flowers.////29/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_ClematisStarter": "Clematis Starter/45/-300/Seeds -74/Clematis Starter/Plant in fall. Takes 10 days to produce a deep purple flower, and keeps producing after the first harvest. Grows on a trellis.////55/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_CrocusBulb": "Crocus Bulb/17/-300/Seeds -74/Crocus Bulb/Plant in winter. Takes 9 days to produce a purple flower with saffron within.////104/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_CuminSeeds": "Cumin Seeds/20/-300/Seeds -74/Cumin Seeds/Plant these in fall. Takes 5 days to mature.////159/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_DahliaSeeds": "Dahlia Seeds/15/-300/Seeds -74/Dahlia Seeds/Plant in fall. Takes 6 days to produce a vibrant flower.////20/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_DaisySeeds": "Daisy Seeds/7/-300/Seeds -74/Daisy Seeds/Plant in summer. Takes 4 days to produce a popular white flower.////75/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_DelphiniumSeeds": "Delphinium Seeds/25/-300/Seeds -74/Delphinium Seeds/Plant in spring. Takes 9 days to produce a tall stem covered in small flowers.////41/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_DillSeeds": "Dill Seeds/25/-300/Seeds -74/Dill Seeds/Plant these in spring. Takes 7 days to mature.////161/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_FairyDusterPod": "Fairy Duster Pod/12/-300/Seeds -74/Fairy Duster Pod/Plant in fall. Takes 7 days to produce a fluffy, bright flower.////49/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_FennelSeeds": "Fennel Seeds/10/-300/Seeds -74/Fennel Seeds/Plant these in fall. Takes 5 days to mature.////137/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_FenugreekSeeds": "Fenugreek Seeds/10/-300/Seeds -74/Fenugreek Seeds/Plant these in spring. Takes 5 days to mature.////163/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_FreesiaBulb": "Freesia Bulb/20/-300/Seeds -74/Freesia Bulb/Plant in fall. Takes 8 days to produce a flower of cascading blooms.////89/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_GeraniumSeeds": "Geranium Seeds/20/-300/Seeds -74/Geranium Seeds/Plant in fall. Takes 9 days to produce a red flower with fuzzy leaves.////103/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_GingerSeeds": "Ginger Seeds/25/-300/Seeds -74/Ginger Seeds/Plant these in summer. Takes 7 days to mature.////107/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_HollySeeds": "Holly Seeds/20/-300/Seeds -74/Holly Seeds/Plant in winter. Takes 10 days to produce a bushy flower with berries.////105/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_HoneysuckleStarter": "Honeysuckle Starter/40/-300/Seeds -74/Honeysuckle Starter/Plant in spring or summer. Takes 8 days to produce sweet smelling flowers, and keeps producing after the first harvest. Grows on a trellis.////51/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_HyacinthSeeds": "Hyacinth Seeds/20/-300/Seeds -74/Hyacinth Seeds/Plant in spring. Takes 7 days to produce a richly colored flower.////65/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_HydrangeaSeeds": "Hydrangea Seeds/20/-300/Seeds -74/Hydrangea Seeds/Plant in summer. Takes 10 days to produce a showy flower.////41/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_IrisBulb": "Iris Bulb/25/-300/Seeds -74/Iris Bulb/Plant in fall. Takes 10 days to produce a truly unique flower.////99/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_LavenderSeeds": "Lavender Seeds/10/-300/Seeds -74/Lavender Seeds/Plant in summer. Takes 6 days to produce a soft purple flower.////5/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_LemongrassSeeds": "Lemongrass Seeds/12/-300/Seeds -74/Lemongrass Seeds/Plant these in summer. Takes 7 days to mature.////189/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_LicoriceSeeds": "Licorice Seeds/50/-300/Seeds -74/Licorice Seeds/Plant these in spring. Takes 8 days to mature.////187/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_LilacPod": "Lilac Pod/20/-300/Seeds -74/Lilac Pod/Plant in spring or summer. Takes 9 days to produce a faint, cute flower.////145/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_LilyBulb": "Lily Bulb/25/-300/Seeds -74/Lily Bulb/Plant in summer. Takes 9 days to produce a grand lily.////62/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_LotusStarter": "Lotus Starter/30/-300/Seeds -74/Lotus Starter/Plant in summer. Takes 11 days to produce a beautiful aquatic flower, and keeps producing after the first harvest. Grows in a planter.////97/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_LupineSeeds": "Lupine Seeds/15/-300/Seeds -74/Lupine Seeds/Plant in summer. Takes 7 days to produce tall, colorful flowers.////17/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_MarjoramSeeds": "Marjoram Seeds/15/-300/Seeds -74/Marjoram Seeds/Plant these in spring. Takes 6 days to mature.////191/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_MintSeeds": "Mint Seeds/15/-300/Seeds -74/Mint Seeds/Plant these in winter. Takes 5 days to mature.////115/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_MorningGloryStarter": "Morning Glory Starter/40/-300/Seeds -74/Morning Glory Starter/Plant in spring. Takes 10 days to produce morning blossoming flowers, and keeps producing after the first harvest. Grows on a trellis.////79/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_OrchidBulb": "Orchid Bulb/100/-300/Seeds -74/Orchid Bulb/Plant in summer or fall. Takes 10 days to produce a highly coveted flower.////68/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_OreganoSeeds": "Oregano Seeds/15/-300/Seeds -74/Oregano Seeds/Plant these in summer. Takes 5 days to mature.////185/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PansySeeds": "Pansy Seeds/15/-300/Seeds -74/Pansy Seeds/Plant in spring. Takes 6 days to produce a popular flower.////92/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_ParsleySeeds": "Parsley Seeds/12/-300/Seeds -74/Parsley Seeds/Plant these in spring. Takes 5 days to mature.////117/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PeonySeeds": "Peony Seeds/25/-300/Seeds -74/Peony Seeds/Plant in spring. Takes 9 days to produce a lively flower.////127/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PerillaSeeds": "Perilla Seeds/15/-300/Seeds -74/Perilla Seeds/Plant these in summer. Takes 5 days to mature.////133/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PetuniaSeeds": "Petunia Seeds/15/-300/Seeds -74/Petunia Seeds/Plant in summer. Takes 6 days to produce a dusky flower.////125/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PinkCatSeeds": "Pink Cat Seeds/10/-300/Seeds -74/Pink Cat Seeds/Plant in spring. Takes 5 days to produce a minty pink flower.////3/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PitcherPlantStarter": "Pitcher Plant Starter/50/-300/Seeds -74/Pitcher Plant Starter/Plant in fall. Takes 15 days to produce a bell-shaped swamp flower. Grows on a trellis.////123/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_PurpleConeflowerSeeds": "Purple Coneflower Seeds/17/-300/Seeds -74/Purple Coneflower Seeds/Plant in fall. Takes 9 days to produce a purple flower.////53/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_RafflesiaCutting": "Rafflesia Cutting/150/-300/Seeds -74/Rafflesia Cutting/Plant in spring or summer. Takes 56 days to produce a hideous flower.////121/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_RoseSeeds": "Rose Seeds/100/-300/Seeds -74/Rose Seeds/Plant in spring, summer, or fall. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest.////9/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					//rose variants
+					"MizuLeo.HerbsFlowers_SpringRoseStarter": "Spring Rose Starter/100/-300/Seeds -74/Spring Rose Starter/Plant in spring. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.////32/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					"MizuLeo.HerbsFlowers_SummerRoseStarter": "Summer Rose Starter/100/-300/Seeds -74/Summer Rose Starter/Plant in summer. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.////33/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					"MizuLeo.HerbsFlowers_FallRoseStarter": "Fall Rose Starter/100/-300/Seeds -74/Fall Rose Starter/Plant in fall. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.////34/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					"MizuLeo.HerbsFlowers_WinterRoseStarter": "Winter Rose Starter/100/-300/Seeds -74/Winter Rose Starter/Plant in winter. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.////35/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_RosemarySeeds": "Rosemary Seeds/15/-300/Seeds -74/Rosemary Seeds/Plant these in fall. Takes 7 days to mature.////119/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_SageSeeds": "Sage Seeds/20/-300/Seeds -74/Sage Seeds/Plant these in fall. Takes 5 days to mature.////113/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_SweetPeaSeeds": "Sweet Pea Seeds/15/-300/Seeds -74/Sweet Pea Seeds/Plant in summer. Takes 8 days to produce a sweet little flower.////106/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_TarragonSeeds": "Tarragon Seeds/17/-300/Seeds -74/Tarragon Seeds/Plant these in fall. Takes 6 days to mature.////165/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_ThymeSeeds": "Thyme Seeds/15/-300/Seeds -74/Thyme Seeds/Plant these in fall. Takes 5 days to mature.////139/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_TurmericSeeds": "Turmeric Seeds/40/-300/Seeds -74/Turmeric Seeds/Plant these in fall. Takes 7 days to mature.////167/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_VioletSeeds": "Violet Seeds/10/-300/Seeds -74/Violet Seeds/Plant in spring. Takes 6 days to produce a rich purple flower.////1/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_WormwoodSeeds": "Wormwood Seeds/50/-300/Seeds -74/Wormwood Seeds/Plant these in winter. Takes 8 days to mature.////183/Mods\\MizuLeo.HerbsFlowers\\Objects",
+
+				// tree produce
+				"MizuLeo.HerbsFlowers_CamphorLeaves": "Camphor Leaves/100/-300/Vegetable -75/Camphor Leaves/Glossy oval leaves that are very fragrant when crushed.////155/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_EucalyptusLeaves": "Eucalyptus Leaves/135/-300/Vegetable -75/Eucalyptus Leaves/Leathery blue-green leaves are studded with glands containing a fragrant, volatile oil. Luckily not an exploding oil!////171/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Hibiscus": "Hibiscus/75/18/Flower -80/Hibiscus/A bright red flower that grows best in a tropical climate. It smells very sweet.////149/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Jasmine": "Jasmine/40/0/Flower -80/Jasmine/These are sweet, highly scented flowers.////151/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Magnolia": "Magnolia/60/18/Flower -80/Magnolia/An elegant flower that grows on a shady tree.////147/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_MelaleucaLeaves": "Melaleuca Leaves/100/-300/Vegetable -75/Melaleuca Leaves/A prickly cone of leaves that are often used as a homemade remedy for cuts and bruises.////173/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Vanilla": "Vanilla/200/0/Flower -80/Vanilla/Easily one of the most well-known flavors in the world. Who’s hungry for ice cream?////153/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Wisteria": "Wisteria/60/-20/Flower -80/Wisteria/An especially fragrant cluster of purple flowers.////177/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_YlangYlang": "Ylang Ylang/75/0/Flower -80/Ylang Ylang/A highly appreciated flower in perfumery and aromatherapy.////175/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				
+				// saplings
+				"MizuLeo.HerbsFlowers_CamphorSapling": "Camphor Sapling/1000/-300/Basic -74/Camphor Sapling/Takes 28 days to produce a mature Camphor tree. Ready to harvest in the winter. Only grows if the 8 surrounding tiles are empty.////154/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_EucalyptusSapling": "Eucalyptus Sapling/1375/-300/Basic -74/Eucalyptus Sapling/Takes 28 days to produce a mature Eucalyptus tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.////170/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_HibiscusSapling": "Hibiscus Sapling/750/-300/Basic -74/Hibiscus Sapling/Takes 28 days to produce a mature Hibiscus tree. Blossoms in the summer. Only grows if the 8 surrounding tiles are empty.////148/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_JasmineSapling": "Jasmine Sapling/750/-300/Basic -74/Jasmine Sapling/Takes 28 days to produce a mature Jasmine tree. Blossoms in the fall. Only grows if the 8 surrounding tiles are empty.////150/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_MagnoliaSapling": "Magnolia Sapling/625/-300/Basic -74/Magnolia Sapling/Takes 28 days to produce a mature Magnolia tree. Blossoms in the spring. Only grows if the 8 surrounding tiles are empty.////146/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_MelaleucaSapling": "Melaleuca Sapling/1000/-300/Basic -74/Melaleuca Sapling/Takes 28 days to produce a mature Melaleuca tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.////172/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_VanillaSapling": "Vanilla Sapling/1250/-300/Basic -74/Vanilla Sapling/Takes 28 days to produce a mature Vanilla tree. Blossoms in the spring. Only grows if the 8 surrounding tiles are empty.////152/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_WisteriaSapling": "Wisteria Sapling/625/-300/Basic -74/Wisteria Sapling/Takes 28 days to produce a mature Wisteria tree. Blossoms in the spring. Only grows if the 8 surrounding tiles are empty.////176/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_YlangYlangSapling": "Ylang Ylang Sapling/1000/-300/Basic -74/Ylang Ylang Sapling/Takes 28 days to produce a mature Ylang Ylang tree. Blossoms in the summer. Only grows if the 8 surrounding tiles are empty.////174/Mods\\MizuLeo.HerbsFlowers\\Objects"
+            }
+        },
+		
+		 // add shop data - custom shop: catalog
+        {
+            "Action": "EditData",
+			"Target": "Data/Shops",
+			"Entries": {
+				"MizuLeo.HerbsFlowers_FlowerCatalog": {
+					"Items": [
+					{
+						"Id": "MizuLeo.HerbsFlowers_AlliumSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_AlliumSeeds",
+						"Condition": "SEASON summer",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_AloePod",
+						"ItemId": "MizuLeo.HerbsFlowers_AloePod",
+						"Condition": "SEASON summer, YEAR 2",
+						"Price": 100,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_BasilSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_BasilSeeds",
+						"Condition": "SEASON spring, YEAR 2",
+						"Price": 50,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_BaySeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_BaySeeds",
+						"Condition": "SEASON winter, YEAR 2",
+						"Price": 50,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_BlueMistSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_BlueMistSeeds",
+						"Condition": "SEASON summer",
+						"Price": 20,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_BluebonnetSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_BluebonnetSeeds",
+						"Condition": "SEASON spring",
+						"Price": 20,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_CamelliaSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_CamelliaSeeds",
+						"Condition": "SEASON spring, YEAR 2",
+						"Price": 50,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_CarnationSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_CarnationSeeds",
+						"Condition": "SEASON spring, YEAR 2",
+						"Price": 40,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_ChamomileSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_ChamomileSeeds",
+						"Condition": "SEASON spring",
+						"Price": 25,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_ChiveSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_ChiveSeeds",
+						"Condition": "SEASON summer, YEAR 2",
+						"Price": 20,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_ChrysanthemumSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_ChrysanthemumSeeds",
+						"Condition": "SEASON fall, YEAR 2",
+						"Price": 40,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_CorrianderSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers",
+						"Condition": "SEASON fall, YEAR 2",
+						"Price": 20,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_ClarySageSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_ClarySageSeeds",
+						"Condition": "SEASON summer, YEAR 2",
+						"Price": 20,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_ClematisStarter",
+						"ItemId": "MizuLeo.HerbsFlowers_ClematisStarter",
+						"Condition": "SEASON fall, YEAR 2",
+						"Price": 90,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_CrocusBulb",
+						"ItemId": "MizuLeo.HerbsFlowers_CrocusBulb",
+						"Condition": "SEASON winter, YEAR 3",
+						"Price": 35,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_CuminSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_CuminSeeds",
+						"Condition": "SEASON fall, YEAR 3",
+						"Price": 40,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_DahliaSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_DahliaSeeds",
+						"Condition": "SEASON fall",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_DaisySeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_DaisySeeds",
+						"Condition": "SEASON summer",
+						"Price": 15,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_DelphiniumSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_DelphiniumSeeds",
+						"Condition": "SEASON spring, YEAR 2",
+						"Price": 50,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_DillSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_DillSeeds",
+						"Condition": "SEASON spring, YEAR 2",
+						"Price": 50,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_FallRoseStarter",
+						"ItemId": "MizuLeo.HerbsFlowers_FallRoseStarter",
+						"Condition": "SEASON fall, YEAR 2",
+						"Price": 200,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_FennelSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_FennelSeeds",
+						"Condition": "SEASON fall, YEAR 3",
+						"Price": 20,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_FenugreekSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_FenugreekSeeds",
+						"Condition": "SEASON spring, YEAR 3",
+						"Price": 20,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_FreesiaBulb",
+						"ItemId": "MizuLeo.HerbsFlowers_FreesiaBulb",
+						"Condition": "SEASON fall, YEAR 2",
+						"Price": 40,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_GeraniumSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_GeraniumSeeds",
+						"Condition": "SEASON fall, YEAR 2",
+						"Price": 40,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_HollySeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_HollySeeds",
+						"Condition": "SEASON winter, YEAR 3",
+						"Price": 40,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_HyacinthSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_HyacinthSeeds",
+						"Condition": "SEASON spring, YEAR 2",
+						"Price": 40,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_HydrangeaSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_HydrangeaSeeds",
+						"Condition": "SEASON summer",
+						"Price": 40,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_IrisBulb",
+						"ItemId": "MizuLeo.HerbsFlowers_IrisBulb",
+						"Condition": "SEASON fall",
+						"Price": 50,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_LavenderSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_LavenderSeeds",
+						"Condition": "SEASON summer",
+						"Price": 20,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_LemongrassSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_LemongrassSeeds",
+						"Condition": "SEASON summer, YEAR 3",
+						"Price": 25,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_LicoriceSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_LicoriceSeeds",
+						"Condition": "SEASON spring, YEAR 4",
+						"Price": 100,
+						"IgnoreShopPriceModifiers": true	
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_LilacPod",
+						"ItemId": "MizuLeo.HerbsFlowers_LilacPod",
+						"Condition": "SEASON spring summer",
+						"Price": 40,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_LilyBulb",
+						"ItemId": "MizuLeo.HerbsFlowers_LilyBulb",
+						"Condition": "SEASON summer, YEAR 2",
+						"Price": 50,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_LupineSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_LupineSeeds",
+						"Condition": "SEASON summer",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_MarjoramSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_MarjoramSeeds",
+						"Condition": "SEASON spring, YEAR 3",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_MintSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_MintSeeds",
+						"Condition": "SEASON winter, YEAR 2",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_MorningGloryStarter",
+						"ItemId": "MizuLeo.HerbsFlowers_MorningGloryStarter",
+						"Condition": "SEASON spring",
+						"Price": 80,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_OrchidBulb",
+						"ItemId": "MizuLeo.HerbsFlowers_OrchidBulb",
+						"Condition": "SEASON summer fall, YEAR 3",
+						"Price": 200,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_OreganoSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_OreganoSeeds",
+						"Condition": "SEASON summer, YEAR 2",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_PansySeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_PansySeeds",
+						"Condition": "SEASON spring",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_ParsleySeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_ParsleySeeds",
+						"Condition": "SEASON spring, YEAR 2",
+						"Price": 25,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_PeonySeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_PeonySeeds",
+						"Condition": "SEASON spring",
+						"Price": 50,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_PerillaSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_PerillaSeeds",
+						"Condition": "SEASON summer, YEAR 3",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_PetuniaSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_PetuniaSeeds",
+						"Condition": "SEASON summer",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_PurpleConeflowerSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_PurpleConeflowerSeeds",
+						"Condition": "SEASON fall, YEAR 2",
+						"Price": 35,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_RoseSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_RoseSeeds",
+						"Condition": "SEASON spring summer",
+						"Price": 200,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_RosemarySeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_RosemarySeeds",
+						"Condition": "SEASON fall, YEAR 2",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_SageSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_SageSeeds",
+						"Condition": "SEASON fall, YEAR 2",
+						"Price": 40,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_SpringRoseStarter",
+						"ItemId": "MizuLeo.HerbsFlowers_SpringRoseStarter",
+						"Condition": "SEASON spring, YEAR 2",
+						"Price": 200,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_SummerRoseStarter",
+						"ItemId": "MizuLeo.HerbsFlowers_SummerRoseStarter",
+						"Condition": "SEASON summer, YEAR 2",
+						"Price": 200,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_SweetPeaSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_SweetPeaSeeds",
+						"Condition": "SEASON summer, YEAR 3",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_TarragonSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_TarragonSeeds",
+						"Condition": "SEASON fall, YEAR 3",
+						"Price": 35,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_ThymeSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_ThymeSeeds",
+						"Condition": "SEASON fall, YEAR 3",
+						"Price": 30,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_TurmericSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_TurmericSeeds",
+						"Condition": "SEASON fall, YEAR 3",
+						"Price": 80,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_VioletSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_VioletSeeds",
+						"Condition": "SEASON spring",
+						"Price": 20,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_WinterRoseStarter",
+						"ItemId": "MizuLeo.HerbsFlowers_WinterRoseStarter",
+						"Condition": "SEASON winter, YEAR 2",
+						"Price": 200,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_WormwoodSeeds",
+						"ItemId": "MizuLeo.HerbsFlowers_WormwoodSeeds",
+						"Condition": "SEASON winter, YEAR 3",
+						"Price": 100,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_CamphorSapling",
+						"ItemId": "MizuLeo.HerbsFlowers_CamphorSapling",
+						"Condition": "YEAR 3",
+						"Price": 4000,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_EucalyptusSapling",
+						"ItemId": "MizuLeo.HerbsFlowers_EucalyptusSapling",
+						"Condition": "YEAR 2",
+						"Price": 5500,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_JasmineSapling",
+						"ItemId": "MizuLeo.HerbsFlowers_JasmineSapling",
+						"Condition": "YEAR 2",
+						"Price": 3000,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_MagnoliaSapling",
+						"ItemId": "MizuLeo.HerbsFlowers_MagnoliaSapling",
+						"Condition": "YEAR 2",
+						"Price": 2500,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_VanillaSapling",
+						"ItemId": "MizuLeo.HerbsFlowers_VanillaSapling",
+						"Price": 5000,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_WisteriaSapling",
+						"ItemId": "MizuLeo.HerbsFlowers_WisteriaSapling",
+						"Price": 2500,
+						"IgnoreShopPriceModifiers": true
+					}
+					]
+				}
+			}
+		},
+		
+		// add shop data - island trader
+		{
+			"Action": "EditData",
+			"Target": "Data/Shops",
+			"TargetField": [ "IslandTrade", "Items" ],
+			"Entries": {
+				"MizuLeo.HerbsFlowers_PitcherPlantStarter": {
+					"Id": "MizuLeo.HerbsFlowers_PitcherPlant",
+					"ItemId": "MizuLeo.HerbsFlowers_PitcherPlant",
+					"TradeItemId": "(O)851", //Magma Cap
+					"TradeItemAmount": 1,
+					"IgnoreShopPriceModifiers": true
+				},
+				"MizuLeo.HerbsFlowers_RafflesiaCutting": {
+					"Id": "MizuLeo.HerbsFlowers_RafflesiaCutting",
+					"ItemId": "MizuLeo.HerbsFlowers_RafflesiaCutting",
+					"TradeItemId": "(O)848", //Cinder Shard
+					"TradeItemAmount": 50,
+					"IgnoreShopPriceModifiers": true
+				},
+				"MizuLeo.HerbsFlowers_GingerSeeds": {
+					"Id": "MizuLeo.HerbsFlowers_GingerSeeds",
+					"ItemId": "MizuLeo.HerbsFlowers_GingerSeeds",
+					"TradeItemId": "(O)881", //Bone Fragment
+					"TradeItemAmount": 2,
+					"IgnoreShopPriceModifiers": true
+				}
+			}
+		},
+
+		// add shop data - marnie's ranch
+		{
+			"Action": "EditData",
+			"Target": "Data/Shops",
+			"TargetField": [ "AnimalShop", "Items" ],
+			"Entries": {
+				"MizuLeo.HerbsFlowers_BeeBalmSeeds": {
+					"Id": "MizuLeo.HerbsFlowers_BeeBalmSeeds",
+					"ItemId": "MizuLeo.HerbsFlowers_BeeBalmSeeds",
+					"Condition": "SEASON fall",
+					"Price": 20,
+					"IgnoreShopPriceModifiers": true
+				},
+				"MizuLeo.HerbsFlowers_ButtercupSeeds": {
+					"Id": "MizuLeo.HerbsFlowers_ButtercupSeeds",
+					"ItemId": "MizuLeo.HerbsFlowers_ButtercupSeeds",
+					"Condition": "SEASON summer",
+					"Price": 15,
+					"IgnoreShopPriceModifiers": true
+				},
+				"MizuLeo.HerbsFlowers_CatnipSeeds": {
+					"Id": "MizuLeo.HerbsFlowers_CatnipSeeds",
+					"ItemId": "MizuLeo.HerbsFlowers_CatnipSeeds",
+					"Condition": "SEASON spring, YEAR 2",
+					"Price": 60,
+					"IgnoreShopPriceModifiers": true
+				},
+				"MizuLeo.HerbsFlowers_HoneysuckleStarter": {
+					"Id": "MizuLeo.HerbsFlowers_HoneysuckleStarter",
+					"ItemId": "MizuLeo.HerbsFlowers_HoneysuckleStarter",
+					"Condition": "SEASON spring",
+					"Price": 80,
+					"IgnoreShopPriceModifiers": true
+				},
+				"MizuLeo.HerbsFlowers_PinkCatSeeds": {
+					"Id": "MizuLeo.HerbsFlowers_PinkCatSeeds",
+					"ItemId": "MizuLeo.HerbsFlowers_PinkCatSeeds",
+					"Condition": "SEASON spring",
+					"Price": 20,
+					"IgnoreShopPriceModifiers": true
+				},
+				"MizuLeo.HerbsFlowers_MelaleucaSapling": {
+					"Id": "MizuLeo.HerbsFlowers_MelaleucaSapling",
+					"ItemId": "MizuLeo.HerbsFlowers_MelaleucaSapling",
+					"Price": 4000,
+					"IgnoreShopPriceModifiers": true
+				}
+			}
+		},
+
+		// add shop data - oasis
+		{
+			"Action": "EditData",
+			"Target": "Data/Shops",
+			"TargetField": [ "Sandy", "Items" ],
+			"Entries": {
+				"MizuLeo.HerbsFlowers_FairyDusterPod": {
+					"Id": "MizuLeo.HerbsFlowers_FairyDusterPod",
+					"ItemId": "MizuLeo.HerbsFlowers_FairyDusterPod",
+					"Price": 25,
+					"IgnoreShopPriceModifiers": true
+				},
+				"MizuLeo.HerbsFlowers_LotusStarter": {
+					"Id": "MizuLeo.HerbsFlowers_LotusStarter",
+					"ItemId": "MizuLeo.HerbsFlowers_LotusStarter",
+					"Condition": "YEAR 3",
+					"Price": 60,
+					"IgnoreShopPriceModifiers": true
+				},
+				"MizuLeo.HerbsFlowers_HibiscusSapling": {
+					"Id": "MizuLeo.HerbsFlowers_HibiscusSapling",
+					"ItemId": "MizuLeo.HerbsFlowers_HibiscusSapling",
+					"Price": 3000,
+					"IgnoreShopPriceModifiers": true
+				},
+				"MizuLeo.HerbsFlowers_YlangYlangSapling": {
+					"Id": "MizuLeo.HerbsFlowers_YlangYlangSapling",
+					"ItemId": "MizuLeo.HerbsFlowers_YlangYlangSapling",
+					"Condition": "YEAR 3",
+					"Price": 3000,
+					"IgnoreShopPriceModifiers": true
+				},
+			}
+		},
+
+        // add gift tastes
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": ["Entries", "Universal_Love"],
+                    "Value": "MizuLeo.HerbsFlowers_GreenPeaSeeds", 
+                    "Delimiter": " " // if there are already values, add a space between them and the new one
+                }
+            ]
+        },
+
+        // add crops
+        {
+            "Action": "EditData",
+            "Target": "Data/Crops",
+            "Entries": {
+                 "MizuLeo.HerbsFlowers_AlliumSeeds": "1 1 1 1/summer/21/MizuLeo.HerbsFlowers_Allium/-1/0/false/false/true 137 29 255 224 156 255 182 66 255 232 214 251/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_AloePod": "1 1 1 1/summer/66/MizuLeo.HerbsFlowers_Aloe/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_BasilSeeds": "1 1 2 1/spring/58/MizuLeo.HerbsFlowers_Basil/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_BaySeeds": "1 2 3 3/winter/67/MizuLeo.HerbsFlowers_BayLeaves/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_BeeBalmSeeds": "1 2 3 2/fall/1/MizuLeo.HerbsFlowers_BeeBalm/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_BlueMistSeeds": "1 2 2 2/summer/11/MizuLeo.HerbsFlowers_BlueMist/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_BluebonnetSeeds": "1 2 2 2/spring/24/MizuLeo.HerbsFlowers_Bluebonnet/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_ButtercupSeeds": "1 1 2 2/summer/16/MizuLeo.HerbsFlowers_Buttercup/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_CamelliaSeeds": "1 2 3 3 2/spring/22/MizuLeo.HerbsFlowers_Camellia/3/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_CarnationSeeds": "1 2 2 2/spring summer/20/MizuLeo.HerbsFlowers_Carnation/-1/0/false/false/true 232 59 73 249 131 234 255 248 248/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_CatnipSeeds": "1 2 2 2/spring/72/MizuLeo.HerbsFlowers_Catnip/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_ChamomileSeeds": "1 1 1 2/spring/0/MizuLeo.HerbsFlowers_Chamomile/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_ChiveSeeds": "1 1 2 1/summer/59/MizuLeo.HerbsFlowers_Chives/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_ChrysanthemumSeeds": "1 2 3 3/fall/42/MizuLeo.HerbsFlowers_Chrysanthemum/-1/0/false/false/true 255 237 33 255 255 252 255 179 32 255 136 184/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_CorrianderSeeds": "1 1 2 1/fall/48/MizuLeo.HerbsFlowers_Cilantro/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_ClarySageSeeds": "1 2 3 2/summer/2/MizuLeo.HerbsFlowers_ClarySage/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_ClematisStarter": "1 2 3 2 2/fall/25/MizuLeo.HerbsFlowers_Clematis/3/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_CrocusBulb": "2 2 3 2/winter/44/418/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_CuminSeeds": "1 2 1 1/fall/49/MizuLeo.HerbsFlowers_Cumin/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_DahliaSeeds": "1 1 2 2/fall/37/MizuLeo.HerbsFlowers_Dahlia/-1/0/false/false/true 255 84 0 254 225 1 231 46 46 255 81 114/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_DaisySeeds": "1 1 1 1/summer/26/MizuLeo.HerbsFlowers_Daisy/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_DelphiniumSeeds": "1 2 3 3/spring/27/MizuLeo.HerbsFlowers_Delphinium/-1/0/false/false/true 108 167 255 174 125 255 250 247 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_DillSeeds": "1 2 2 2/spring/50/MizuLeo.HerbsFlowers_Dill/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_FairyDusterPod": "2 1 2 2/fall/9/MizuLeo.HerbsFlowers_FairyDuster/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_FennelSeeds": "1 1 2 1/fall/69/MizuLeo.HerbsFlowers_Fennel/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_FenugreekSeeds": "1 1 2 1/spring/51/MizuLeo.HerbsFlowers_Fenugreek/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_FreesiaBulb": "1 2 3 2/fall/41/MizuLeo.HerbsFlowers_Freesia/-1/0/false/false/true 255 53 124 255 97 19 255 180 0 208 83 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_GeraniumSeeds": "1 2 3 3/fall/34/MizuLeo.HerbsFlowers_Geranium/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_GingerSeeds": "1 1 2 2 1/summer/65/(O)829/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_HollySeeds": "2 3 3 2/winter/46/283/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_HoneysuckleStarter": "1 2 2 2 1/spring summer/3/MizuLeo.HerbsFlowers_Honeysuckle/3/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_HyacinthSeeds": "1 2 2 2/spring/31/MizuLeo.HerbsFlowers_Hyacinth/-1/0/false/false/true 202 147 255 253 252 255 54 125 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_HydrangeaSeeds": "2 3 3 2/summer/33/MizuLeo.HerbsFlowers_Hydrangea/-1/0/false/false/true 154 204 255 255 134 245 223 243 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_IrisBulb": "2 3 3 2/fall/38/MizuLeo.HerbsFlowers_Iris/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_LavenderSeeds": "1 1 2 2/summer/5/MizuLeo.HerbsFlowers_Lavender/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_LemongrassSeeds": "1 2 2 2/summer/52/MizuLeo.HerbsFlowers_Lemongrass/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_LicoriceSeeds": "1 2 2 2 1/spring/56/MizuLeo.HerbsFlowers_LicoriceRoot/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_LilacPod": "2 1 2 2 2/spring summer/6/MizuLeo.HerbsFlowers_Lilac/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_LilyBulb": "2 2 3 2/summer/30/MizuLeo.HerbsFlowers_Lily/-1/0/false/false/true 255 254 255 231 46 65 255 108 69 239 202 0 176 107 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_LotusStarter": "2 2 2 3 2/summer/35/MizuLeo.HerbsFlowers_Lotus/5/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_LupineSeeds": "1 2 2 2/summer/29/MizuLeo.HerbsFlowers_Lupine/-1/0/false/false/true 255 124 204 255 95 63 254 225 1 128 122 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_MarjoramSeeds": "1 2 2 1/spring/53/MizuLeo.HerbsFlowers_Marjoram/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_MintSeeds": "1 1 2 1/winter/60/MizuLeo.HerbsFlowers_Mint/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_MorningGloryStarter": "1 2 3 2 2/spring/43/MizuLeo.HerbsFlowers_MorningGlory/4/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_OrchidBulb": "2 3 3 2/summer fall/40/MizuLeo.HerbsFlowers_Orchid/-1/0/false/false/true 238 45 163 255 255 254 65 79 218/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_OreganoSeeds": "1 1 2 1/summer/63/MizuLeo.HerbsFlowers_Oregano/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_PansySeeds": "1 1 2 2/spring/47/MizuLeo.HerbsFlowers_Pansy/-1/0/false/false/true 254 225 1 223 24 41 167 65 239 255 255 254/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_ParsleySeeds": "1 1 2 1/spring/62/MizuLeo.HerbsFlowers_Parsley/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_PeonySeeds": "1 2 3 3/spring/32/MizuLeo.HerbsFlowers_Peony/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_PerillaSeeds": "1 1 2 1/summer/71/MizuLeo.HerbsFlowers_PerillaLeaves/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_PetuniaSeeds": "1 1 2 2/summer/39/MizuLeo.HerbsFlowers_Petunia/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_PinkCatSeeds": "1 1 1 2/spring/10/MizuLeo.HerbsFlowers_PinkCat/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_PitcherPlantStarter": "2 3 3 4 3/fall/23/MizuLeo.HerbsFlowers_PitcherPlant/-1/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_PurpleConeflowerSeeds": "1 2 3 3/fall/8/MizuLeo.HerbsFlowers_PurpleConeflower/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_RafflesiaCutting": "5 8 10 18 15/spring summer/36/MizuLeo.HerbsFlowers_Rafflesia/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_RoseSeeds": "1 1 1 1/spring summer fall/17/MizuLeo.HerbsFlowers_Rose/-1/0/false/false/true 255 88 105/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_SpringRoseStarter": "1 1 1 1 1/spring/12/MizuLeo.HerbsFlowers_SpringRose/5/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_SummerRoseStarter": "1 1 1 1 1/summer/13/MizuLeo.HerbsFlowers_SummerRose/5/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_FallRoseStarter": "1 1 1 1 1/fall/14/MizuLeo.HerbsFlowers_FallRose/5/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_WinterRoseStarter": "1 1 1 1 1/winter/15/MizuLeo.HerbsFlowers_WinterRose/5/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_RosemarySeeds": "1 2 2 2/fall/64/MizuLeo.HerbsFlowers_Rosemary/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_SageSeeds": "1 1 2 1/fall/61/MizuLeo.HerbsFlowers_Sage/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_SweetPeaSeeds": "1 2 3 2/summer/45/402/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_TarragonSeeds": "1 2 2 1/fall/55/MizuLeo.HerbsFlowers_Tarragon/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_ThymeSeeds": "1 1 2 1/fall/68/MizuLeo.HerbsFlowers_Thyme/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_TurmericSeeds": "1 1 2 2 1/fall/54/MizuLeo.HerbsFlowers_Turmeric/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_VioletSeeds": "1 1 2 2/spring/28/MizuLeo.HerbsFlowers_Violet/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
+				 "MizuLeo.HerbsFlowers_WormwoodSeeds": "1 2 3 2/winter/70/MizuLeo.HerbsFlowers_Wormwood/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops"
+				}
+        },
+
+        // add trees
+        {
+        	"Action": "EditData",
+        	"Target": "Data/FruitTrees",
+        	"Entries": {
+        		"MizuLeo.HerbsFlowers_CamphorSapling": {
+        			"DisplayName": "Camphor",
+        			"Seasons": [ "winter" ],
+        			"Fruit": [
+        				{
+        					"Id": "MizuLeo.HerbsFlowers_CamphorLeaves",
+        					"ItemId": "MizuLeo.HerbsFlowers_CamphorLeaves"
+        				}
+        			],
+        			"Texture": "",
+        			"TextureSpriteRow": 0
+        		},
+        		"MizuLeo.HerbsFlowers_EucalyptusSapling": {
+        			"DisplayName": "Eucalyptus",
+        			"Seasons": [ "spring" ],
+        			"Fruit": [
+        				{
+        					"Id": "MizuLeo.HerbsFlowers_EucalyptusLeaves",
+        					"ItemId": "MizuLeo.HerbsFlowers_EucalyptusLeaves"
+        				}
+        			],
+        			"Texture": "",
+        			"TextureSpriteRow": 0
+        		},
+        		"MizuLeo.HerbsFlowers_HibiscusSapling": {
+        			"DisplayName": "Hibiscus",
+        			"Seasons": [ "summer" ],
+        			"Fruit": [
+        				{
+        					"Id": "MizuLeo.HerbsFlowers_Hibiscus",
+        					"ItemId": "MizuLeo.HerbsFlowers_Hibiscus"
+        				}
+        			],
+        			"Texture": "",
+        			"TextureSpriteRow": 0
+        		},
+        		"MizuLeo.HerbsFlowers_JasmineSapling": {
+        			"DisplayName": "Jasmine",
+        			"Seasons": [ "fall" ],
+        			"Fruit": [
+        				{
+        					"Id": "MizuLeo.HerbsFlowers_Jasmine",
+        					"ItemId": "MizuLeo.HerbsFlowers_Jasmine"
+        				}
+        			],
+        			"Texture": "",
+        			"TextureSpriteRow": 0
+        		},
+        		"MizuLeo.HerbsFlowers_MagnoliaSapling": {
+        			"DisplayName": "Magnolia",
+        			"Seasons": [ "spring" ],
+        			"Fruit": [
+        				{
+        					"Id": "MizuLeo.HerbsFlowers_Magnolia",
+        					"ItemId": "MizuLeo.HerbsFlowers_Magnolia"
+        				}
+        			],
+        			"Texture": "",
+        			"TextureSpriteRow": 0
+        		},
+        		"MizuLeo.HerbsFlowers_MelaleucaSapling": {
+        			"DisplayName": "Melaleuca",
+        			"Seasons": [ "spring" ],
+        			"Fruit": [
+        				{
+        					"Id": "MizuLeo.HerbsFlowers_MelaleucaLeaves",
+        					"ItemId": "MizuLeo.HerbsFlowers_MelaleucaLeaves"
+        				}
+        			],
+        			"Texture": "",
+        			"TextureSpriteRow": 0
+        		},
+        		"MizuLeo.HerbsFlowers_VanillaSapling": {
+        			"DisplayName": "Vanilla",
+        			"Seasons": [ "spring" ],
+        			"Fruit": [
+        				{
+        					"Id": "MizuLeo.HerbsFlowers_Vanilla",
+        					"ItemId": "MizuLeo.HerbsFlowers_Vanilla"
+        				}
+        			],
+        			"Texture": "",
+        			"TextureSpriteRow": 0
+        		},
+        		"MizuLeo.HerbsFlowers_WisteriaSapling": {
+        			"DisplayName": "Wisteria",
+        			"Seasons": [ "spring" ],
+        			"Fruit": [
+        				{
+        					"Id": "MizuLeo.HerbsFlowers_Wisteria",
+        					"ItemId": "MizuLeo.HerbsFlowers_Wisteria"
+        				}
+        			],
+        			"Texture": "",
+        			"TextureSpriteRow": 0
+        		},
+        		"MizuLeo.HerbsFlowers_YlangYlang": {
+        			"DisplayName": "Ylang Ylang",
+        			"Seasons": [ "summer" ],
+        			"Fruit": [
+        				{
+        					"Id": "MizuLeo.HerbsFlowers_YlangYlang",
+        					"ItemId": "MizuLeo.HerbsFlowers_YlangYlang"
+        				}
+        			],
+        			"Texture": "",
+        			"TextureSpriteRow": 0
+        		}
+        	}
+        },
+
+        // add item + crop images
+        {
+            "Action": "Load",
+            "Target": "Mods/MizuLeo.HerbsFlowers/Crops, Mods/MizuLeo.HerbsFlowers/Objects",
+            "FromFile": "assets/{{TargetWithoutPath}}.png" // assets/Crops.png, assets/Objects.png
+        },
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "Name": "More Herbs and Flowers",
+    "Author": "MizuJakkaru, DraconisLeonidas",
+    "Description": "An additional Herbs and Flowers mod for Stardew Valley 1.6 Content Patcher",
+    "Version": "1.0.0",
+    "MinimumApiVersion": "4.0.0-alpha",
+    "UniqueID": "MizuLeo.HerbsFlowers",
+    //"UpdateKeys": ["Nexus:"],
+	"ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
