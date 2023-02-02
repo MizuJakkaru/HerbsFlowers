@@ -151,6 +151,7 @@
 				"MizuLeo.HerbsFlowers_Jasmine": "Jasmine/40/0/Flower -80/Jasmine/These are sweet, highly scented flowers.////151/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_Magnolia": "Magnolia/60/18/Flower -80/Magnolia/An elegant flower that grows on a shady tree.////147/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_MelaleucaLeaves": "Melaleuca Leaves/100/-300/Vegetable -75/Melaleuca Leaves/A prickly cone of leaves that are often used as a homemade remedy for cuts and bruises.////173/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_Nutmeg": "Nutmeg/90/-300/Forage -81/Nutmeg/A fragrant seed that can be ground into a useful spice.////179/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_Vanilla": "Vanilla/200/0/Flower -80/Vanilla/Easily one of the most well-known flavors in the world. Who’s hungry for ice cream?////153/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_Wisteria": "Wisteria/60/-20/Flower -80/Wisteria/An especially fragrant cluster of purple flowers.////177/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_YlangYlang": "Ylang Ylang/75/0/Flower -80/Ylang Ylang/A highly appreciated flower in perfumery and aromatherapy.////175/Mods\\MizuLeo.HerbsFlowers\\Objects",
@@ -162,6 +163,7 @@
 				"MizuLeo.HerbsFlowers_JasmineSapling": "Jasmine Sapling/750/-300/Basic -74/Jasmine Sapling/Takes 28 days to produce a mature Jasmine tree. Blossoms in the fall. Only grows if the 8 surrounding tiles are empty.////150/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_MagnoliaSapling": "Magnolia Sapling/625/-300/Basic -74/Magnolia Sapling/Takes 28 days to produce a mature Magnolia tree. Blossoms in the spring. Only grows if the 8 surrounding tiles are empty.////146/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_MelaleucaSapling": "Melaleuca Sapling/1000/-300/Basic -74/Melaleuca Sapling/Takes 28 days to produce a mature Melaleuca tree. Ready to harvest in the spring. Only grows if the 8 surrounding tiles are empty.////172/Mods\\MizuLeo.HerbsFlowers\\Objects",
+				"MizuLeo.HerbsFlowers_NutmegSapling": "Nutmeg Sapling/1000/-300/Basic -74/Nutmeg Sapling/Takes 28 days to produce a mature Nutmeg tree. Ready to harvest in the summer. Only grows if the 8 surrounding tiles are empty.////178/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_VanillaSapling": "Vanilla Sapling/1250/-300/Basic -74/Vanilla Sapling/Takes 28 days to produce a mature Vanilla tree. Blossoms in the spring. Only grows if the 8 surrounding tiles are empty.////152/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_WisteriaSapling": "Wisteria Sapling/625/-300/Basic -74/Wisteria Sapling/Takes 28 days to produce a mature Wisteria tree. Blossoms in the spring. Only grows if the 8 surrounding tiles are empty.////176/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_YlangYlangSapling": "Ylang Ylang Sapling/1000/-300/Basic -74/Ylang Ylang Sapling/Takes 28 days to produce a mature Ylang Ylang tree. Blossoms in the summer. Only grows if the 8 surrounding tiles are empty.////174/Mods\\MizuLeo.HerbsFlowers\\Objects"
@@ -600,6 +602,13 @@
 						"ItemId": "MizuLeo.HerbsFlowers_JasmineSapling",
 						"Condition": "YEAR 2",
 						"Price": 3000,
+						"IgnoreShopPriceModifiers": true
+					},
+					{
+						"Id": "MizuLeo.HerbsFlowers_NutmegSapling",
+						"ItemId": "MizuLeo.HerbsFlowers_NutmegSapling",
+						"Condition": "YEAR 2",
+						"Price": 4000,
 						"IgnoreShopPriceModifiers": true
 					},
 					{
