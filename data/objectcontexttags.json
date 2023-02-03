@@ -1,0 +1,104 @@
+{
+	"Changes":
+	[
+		// add custom context tags
+		{
+			"Action": "EditData",
+			"Target": "Data/ObjectContextTags",
+			"Entries": {
+				//produce
+				"Allium": "color_purple, season_summer, flower_item, dye_medium",
+				"Aloe": "color_green, season_summer, herb_item, herb_soap_item",
+				"Basil": "color_green, season_spring, herb_item",
+				"Bay Leaves": "color_dark_green, season_winter, herb_item",
+				"Bee Balm": "color_dark_pink, season_fall, flower_item, dye_medium",
+				"Bluebonnet": "color_blue, season_spring, flower_item, dye_medium",
+				"Blue Mist": "color_blue, season_summer, flower_item, dye_medium",
+				"Buttercup": "color_yellow, season_summer, flower_item, dye_medium",
+				"Camellia": "color_white, season_spring, flower_item, dye_medium", 
+				"Carnation": "color_red, season_spring, season_summer, flower_item, dye_medium",
+				"Catnip": "color_green, season_spring, herb_item, herb_soap_item", 
+				"Chamomile": "color_white, season_spring, flower_item, dye_medium", 
+				"Chives": "color_green, season_summer, herb_item", 
+				"Chrysanthemum": "color_yellow, season_fall, flower_item, dye_medium", 
+				"Cilantro": "color_yellow_green, season_fall, herb_item", 
+				"Clary Sage": "color_purple, season_summer, flower_item, dye_medium", 
+				"Clematis": "color_dark_purple, season_fall, flower_item, dye_medium", 
+				"Cumin": "color_black, season_fall, herb_item", 
+				"Dahlia": "color_orange, season_fall, flower_item, dye_medium", 
+				"Daisy": "color_white, season_summer, flower_item, dye_medium", 
+				"Delphinium": "color_cyan, season_spring, flower_item, dye_medium", 
+				"Dill": "color_green, season_spring, herb_item", 
+				"Fairy Duster": "color_pink, season_fall, flower_item, dye_medium", 
+				"Fennel": "color_green, season_fall, herb_item", 
+				"Fenugreek": "color_green, season_spring, herb_item", 
+				"Freesia": "color_dark_pink, season_fall, flower_item, dye_medium", 
+				"Geranium": "color_red, season_fall, flower_item, dye_medium", 
+				"Honeysuckle": "color_yellow, season_spring, season_summer, flower_item, dye_medium", 
+				"Hyacinth": "color_dark_purple, season_spring, flower_item, dye_medium", 
+				"Hydrangea": "color_light_cyan, season_summer, flower_item, dye_medium", 
+				"Iris": "color_dark_purple, season_fall, flower_item, dye_medium", 
+				"Lavender": "color_purple, season_summer, flower_item, dye_medium", 
+				"Lemongrass": "color_yellow_green, season_summer, herb_item", 
+				"Licorice Root": "color_black, season_spring, herb_item", 
+				"Lilac": "color_purple, season_spring, season_summer, flower_item, dye_medium", 
+				"Lily": "color_white, season_summer, flower_item, dye_medium", 
+				"Lotus": "color_pink, season_summer, flower_item, dye_medium", 
+				"Lupine": "color_pale_violet_red, season_summer, flower_item, dye_medium", 
+				"Marjoram": "color_dark_green, season_spring, herb_item", 
+				"Mint": "color_dark_green, season_winter, herb_item, herb_soap_item", 
+				"Morning Glory": "color_blue, season_spring, flower_item, dye_medium", 
+				"Orchid": "color_dark_pink, season_summer, season_fall, flower_item, dye_medium", 
+				"Oregano": "color_green, season_summer, herb_item", 
+				"Pansy": "color_yellow, season_spring, flower_item, dye_medium", 
+				"Parsley": "color_yellow_green, season_spring, herb_item", 
+				"Peony": "color_pink, season_spring, flower_item, dye_medium", 
+				"Perilla Leaves": "color_green, season_summer, herb_item", 
+				"Petunia": "color_pink, season_summer, flower_item, dye_medium", 
+				"Pink Cat": "color_pink, season_spring, flower_item, dye_medium", 
+				"Pitcher Plant": "color_lime, season_fall, flower_item, dye_medium", 
+				"Purple Coneflower": "color_purple, season_fall, flower_item, dye_medium", 
+				"Rafflesia": "color_dark_orange, season_spring, season_summer, flower_item, dye_medium", 
+				"Rose": "color_red, season_spring, season_summer, season_fall, flower_item, dye_medium", 
+					// rose variants
+					"Spring Rose": "color_white, season_spring, flower_item, dye_medium", 
+					"Summer Rose": "color_yellow, season_summer, flower_item, dye_medium", 
+					"Fall Rose": "color_black, season_fall, flower_item, dye_medium", 
+					"Winter Rose": "color_blue, season_winter, flower_item, dye_medium",
+				"Rosemary": "color_dark_green, season_fall, flower_item, dye_medium, herb_item, herb_soap_item", 
+				"Sage": "color_jade, season_fall, herb_item, herb_soap_item", 
+				"Tarragon": "color_yellow_green, season_fall, herb_item", 
+				"Thyme": "color_dark_green, season_fall, herb_item", 
+				"Turmeric": "color_orange, season_fall, herb_item", 
+				"Violet": "color_dark_purple, season_spring, flower_item, dye_medium", 
+				"Wormwood": "color_jade, season_winter", 
+				
+				//tree produce
+				"Camphor Leaves": "color_yellow_green, season_winter, herb_item, herb_soap_item",  
+				"Eucalyptus Leaves": "color_yellow_green, season_spring, herb_item, herb_soap_item",  
+				"Hibiscus": "color_red, season_summer", 
+				"Jasmine": "color_white, season_fall", 
+				"Magnolia": "color_white, season_spring", 
+				"Melaleuca Leaves": "color_green, season_spring, herb_item, herb_soap_item",  
+				"Nutmeg": "color_brown, season_summer, herb_item, nut_soap_item",  
+				"Vanilla": "color_dark_brown, season_spring", 
+				"Wisteria": "color_purple, season_spring",
+				"Ylang Ylang": "color_yellow, season_summer"				
+			}
+		},
+		
+		// add custom context tags, vanilla items
+		{
+			"Action": "EditData",
+			"Target": "Data/ObjectContextTags",
+			"TextOperations": [
+				{
+					"Operation": "Append",
+					"Target": ["Entries", "Ginger"],
+					"Value": "herb_item, herb_soap_item",
+					"Delimiter": ", "
+				}
+			]
+		}
+	]
+}

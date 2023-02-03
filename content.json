@@ -962,5 +962,11 @@
             "Target": "Mods/MizuLeo.HerbsFlowers/Crops, Mods/MizuLeo.HerbsFlowers/Objects",
             "FromFile": "assets/{{TargetWithoutPath}}.png" // assets/Crops.png, assets/Objects.png
         },
+		
+		// add subfiles
+		{
+			"Action": "Include",
+			"FromFile": "data/objectcontexttags.json"
+		},
     ]
 }
