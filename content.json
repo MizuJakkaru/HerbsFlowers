@@ -180,7 +180,7 @@
 		// add subfiles
 		{
 			"Action": "Include",
-			"FromFile": "data/crops.json, data/gifttastes.json, data/objectcontexttags.json, data/shop_catalog.json, data/shop_islandtrader.json, data/shop_marnie.json, data/shop_oasis.json, data/trees.json"
+			"FromFile": "data/crops.json, data/gifttastes.json, data/objectcontexttags.json, data/shop_catalog.json, data/shop_islandtrader.json, data/shop_marnie.json, data/shop_oasis.json, data/trees.json, data/letters.json"
 		},
     ]
 }
