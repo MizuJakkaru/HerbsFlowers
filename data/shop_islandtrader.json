@@ -19,7 +19,7 @@
 					"TradeItemId": "(O)74", // prismatic shard
 					"TradeItemAmount": 1,
 					"IgnoreShopPriceModifiers": true
-				}
+				},
 				"MizuLeo.HerbsFlowers_RafflesiaCutting": {
 					"Id": "MizuLeo.HerbsFlowers_RafflesiaCutting",
 					"ItemId": "MizuLeo.HerbsFlowers_RafflesiaCutting",
