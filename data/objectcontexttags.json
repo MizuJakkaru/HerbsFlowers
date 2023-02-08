@@ -65,6 +65,7 @@
 					"Summer Rose": "color_yellow, season_summer, flower_item, dye_medium", 
 					"Fall Rose": "color_black, season_fall, flower_item, dye_medium", 
 					"Winter Rose": "color_blue, season_winter, flower_item, dye_medium",
+					"Prismatic Rose": "color_prismatic, season_spring, season_summer, season_fall, flower_item, dye_medium",
 				"Rosemary": "color_dark_green, season_fall, flower_item, dye_medium, herb_item, herb_soap_item", 
 				"Sage": "color_jade, season_fall, herb_item, herb_soap_item", 
 				"Tarragon": "color_yellow_green, season_fall, herb_item", 
