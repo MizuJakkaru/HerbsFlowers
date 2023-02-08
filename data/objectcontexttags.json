@@ -6,7 +6,7 @@
 			"Action": "EditData",
 			"Target": "Data/ObjectContextTags",
 			"Entries": {
-				//produce
+				// produce
 				"Allium": "color_purple, season_summer, flower_item, dye_medium",
 				"Aloe": "color_green, season_summer, herb_item, herb_soap_item",
 				"Basil": "color_green, season_spring, herb_item",
@@ -73,7 +73,7 @@
 				"Violet": "color_dark_purple, season_spring, flower_item, dye_medium", 
 				"Wormwood": "color_jade, season_winter", 
 				
-				//tree produce
+				// tree produce
 				"Camphor Leaves": "color_yellow_green, season_winter, herb_item, herb_soap_item",  
 				"Eucalyptus Leaves": "color_yellow_green, season_spring, herb_item, herb_soap_item",  
 				"Hibiscus": "color_red, season_summer", 

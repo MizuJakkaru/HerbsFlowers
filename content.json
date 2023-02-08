@@ -65,6 +65,7 @@
 					"MizuLeo.HerbsFlowers_SummerRose": "Summer Rose/290/18/Flowers -80/Summer Rose/A rose by any other name would smell as sweet.////58/Mods\\MizuLeo.HerbsFlowers\\Objects",
 					"MizuLeo.HerbsFlowers_FallRose": "Fall Rose/290/18/Flowers -80/Fall Rose/A rose by any other name would smell as sweet.////80/Mods\\MizuLeo.HerbsFlowers\\Objects",
 					"MizuLeo.HerbsFlowers_WinterRose": "Winter Rose/290/18/Flowers -80/Winter Rose/A rose by any other name would smell as sweet.////82/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					"MizuLeo.HerbsFlowers_PrismaticRose": "Prismatic Rose/1000/18/Flowers -80/Prismatic Rose/A rose by any other name would smell as sweet.////80/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_Rosemary": "Rosemary/75/8/Vegetable -75/Rosemary/The smell of rosemary is piney and fresh; familiar but also distinctive.////118/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_Sage": "Sage/70/8/Vegetable -75/Sage/Burned ceremonially to cleanse the spirit and welcome positive thoughts.////112/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_Tarragon": "Tarragon/60/8/Vegetable -75/Tarragon/Tarragon has a slightly bittersweet flavor and an aroma similar to anise. When used in cooking it goes well with fish, meat, soups and stews.////164/Mods\\MizuLeo.HerbsFlowers\\Objects",
@@ -129,12 +130,13 @@
 				"MizuLeo.HerbsFlowers_PitcherPlantStarter": "Pitcher Plant Starter/50/-300/Seeds -74/Pitcher Plant Starter/Plant in fall. Takes 15 days to produce a bell-shaped swamp flower. Grows on a trellis.////123/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_PurpleConeflowerSeeds": "Purple Coneflower Seeds/17/-300/Seeds -74/Purple Coneflower Seeds/Plant in fall. Takes 9 days to produce a purple flower.////53/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_RafflesiaCutting": "Rafflesia Cutting/150/-300/Seeds -74/Rafflesia Cutting/Plant in spring or summer. Takes 56 days to produce a hideous flower.////121/Mods\\MizuLeo.HerbsFlowers\\Objects",
-				"MizuLeo.HerbsFlowers_RoseSeeds": "Rose Seeds/100/-300/Seeds -74/Rose Seeds/Plant in spring, summer, or fall. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest.////9/Mods\\MizuLeo.HerbsFlowers\\Objects",
-					//rose variants
+				"MizuLeo.HerbsFlowers_RoseSeeds": "Rose Seeds/100/-300/Seeds -74/Rose Seeds/Plant in spring, summer, or fall. Takes 12 days to produce a famously beautiful flower.////9/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					// rose variants
 					"MizuLeo.HerbsFlowers_SpringRoseStarter": "Spring Rose Starter/100/-300/Seeds -74/Spring Rose Starter/Plant in spring. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.////32/Mods\\MizuLeo.HerbsFlowers\\Objects",
 					"MizuLeo.HerbsFlowers_SummerRoseStarter": "Summer Rose Starter/100/-300/Seeds -74/Summer Rose Starter/Plant in summer. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.////33/Mods\\MizuLeo.HerbsFlowers\\Objects",
 					"MizuLeo.HerbsFlowers_FallRoseStarter": "Fall Rose Starter/100/-300/Seeds -74/Fall Rose Starter/Plant in fall. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.////34/Mods\\MizuLeo.HerbsFlowers\\Objects",
 					"MizuLeo.HerbsFlowers_WinterRoseStarter": "Winter Rose Starter/100/-300/Seeds -74/Winter Rose Starter/Plant in winter. Takes 12 days to produce a famously beautiful flower, and keeps producing after the first harvest. Grows on a trellis.////35/Mods\\MizuLeo.HerbsFlowers\\Objects",
+					"MizuLeo.HerbsFlowers_PrismaticRoseSeeds": "Prismatic Rose Seeds/175/-300/Seeds -74/Prismatic Rose Seeds/Plant in any spring, summer, or fall. Takes 20 days to produce a famously beautiful flower.////81/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_RosemarySeeds": "Rosemary Seeds/15/-300/Seeds -74/Rosemary Seeds/Plant these in fall. Takes 7 days to mature.////119/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_SageSeeds": "Sage Seeds/20/-300/Seeds -74/Sage Seeds/Plant these in fall. Takes 5 days to mature.////113/Mods\\MizuLeo.HerbsFlowers\\Objects",
 				"MizuLeo.HerbsFlowers_SweetPeaSeeds": "Sweet Pea Seeds/15/-300/Seeds -74/Sweet Pea Seeds/Plant in summer. Takes 8 days to produce a sweet little flower.////106/Mods\\MizuLeo.HerbsFlowers\\Objects",
