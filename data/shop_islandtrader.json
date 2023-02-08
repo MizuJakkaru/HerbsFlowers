@@ -9,21 +9,28 @@
 				"MizuLeo.HerbsFlowers_PitcherPlantStarter": {
 					"Id": "MizuLeo.HerbsFlowers_PitcherPlant",
 					"ItemId": "MizuLeo.HerbsFlowers_PitcherPlant",
-					"TradeItemId": "(O)851", //Magma Cap
+					"TradeItemId": "(O)851", // magma cap
 					"TradeItemAmount": 1,
 					"IgnoreShopPriceModifiers": true
 				},
+				"MizuLeo.HerbsFlowers_PrismaticRoseSeeds": {
+					"Id": "MizuLeo.HerbsFlowers_PrismaticRoseSeeds",
+					"ItemId": "MizuLeo.HerbsFlowers_PrismaticRoseSeeds",
+					"TradeItemId": "(O)74", // prismatic shard
+					"TradeItemAmount": 1,
+					"IgnoreShopPriceModifiers": true
+				}
 				"MizuLeo.HerbsFlowers_RafflesiaCutting": {
 					"Id": "MizuLeo.HerbsFlowers_RafflesiaCutting",
 					"ItemId": "MizuLeo.HerbsFlowers_RafflesiaCutting",
-					"TradeItemId": "(O)848", //Cinder Shard
+					"TradeItemId": "(O)848", // cinder shard
 					"TradeItemAmount": 50,
 					"IgnoreShopPriceModifiers": true
 				},
 				"MizuLeo.HerbsFlowers_GingerSeeds": {
 					"Id": "MizuLeo.HerbsFlowers_GingerSeeds",
 					"ItemId": "MizuLeo.HerbsFlowers_GingerSeeds",
-					"TradeItemId": "(O)881", //Bone Fragment
+					"TradeItemId": "(O)881", // bone fragment
 					"TradeItemAmount": 2,
 					"IgnoreShopPriceModifiers": true
 				}
