@@ -460,6 +460,11 @@
 						"Price": 2500,
 						"IgnoreShopPriceModifiers": true
 					}
+					],
+					"Owners": [
+						{
+							"Condition": "PLAYER_HAS_READ_LETTER Any MizuLeoCatalog"					
+						}
 					]
 				}
 			}

@@ -1,0 +1,12 @@
+{
+	"Changes": [
+		// Add Letter from Pierre notifying of Flower/Herb Catalogue
+		{
+			"Action": "EditData",
+			"Target": "Data/Mail",
+			"Entires": {
+				"MizuLeoCatalog": "Lorum Ipsum ya ya ya ^ -Pierre [#]Flower Catalogue Available"
+			}
+		}
+	]
+}
