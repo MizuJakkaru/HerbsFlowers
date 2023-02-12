@@ -86,20 +86,6 @@
 				"Wisteria": "color_purple, season_spring",
 				"Ylang Ylang": "color_yellow, season_summer"				
 			}
-		},
-		
-		// add custom context tags, vanilla items
-		{
-			"Action": "EditData",
-			"Target": "Data/ObjectContextTags",
-			"TextOperations": [
-				{
-					"Operation": "Append",
-					"Target": ["Entries", "Ginger"],
-					"Value": "herb_item, herb_soap_item",
-					"Delimiter": ", "
-				}
-			]
 		}
 	]
 }
