@@ -5,76 +5,521 @@
             "Action": "EditData",
             "Target": "Data/Crops",
             "Entries": {
-                 "MizuLeo.HerbsFlowers_AlliumSeeds": "1 1 1 1/summer/21/MizuLeo.HerbsFlowers_Allium/-1/0/false/false/true 137 29 255 224 156 255 182 66 255 232 214 251/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_AloePod": "1 1 1 1/summer/66/MizuLeo.HerbsFlowers_Aloe/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_BasilSeeds": "1 1 2 1/spring/58/MizuLeo.HerbsFlowers_Basil/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_BaySeeds": "1 2 3 3/winter/67/MizuLeo.HerbsFlowers_BayLeaves/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_BeeBalmSeeds": "1 2 3 2/fall/1/MizuLeo.HerbsFlowers_BeeBalm/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_BlueMistSeeds": "1 2 2 2/summer/11/MizuLeo.HerbsFlowers_BlueMist/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_BluebonnetSeeds": "1 2 2 2/spring/24/MizuLeo.HerbsFlowers_Bluebonnet/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_ButtercupSeeds": "1 1 2 2/summer/16/MizuLeo.HerbsFlowers_Buttercup/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_CamelliaSeeds": "1 2 3 3 2/spring/22/MizuLeo.HerbsFlowers_Camellia/3/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_CarnationSeeds": "1 2 2 2/spring summer/20/MizuLeo.HerbsFlowers_Carnation/-1/0/false/false/true 232 59 73 249 131 234 255 248 248/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_CatnipSeeds": "1 2 2 2/spring/72/MizuLeo.HerbsFlowers_Catnip/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_ChamomileSeeds": "1 1 1 2/spring/0/MizuLeo.HerbsFlowers_Chamomile/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_ChiveSeeds": "1 1 2 1/summer/59/MizuLeo.HerbsFlowers_Chives/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_ChrysanthemumSeeds": "1 2 3 3/fall/42/MizuLeo.HerbsFlowers_Chrysanthemum/-1/0/false/false/true 255 237 33 255 255 252 255 179 32 255 136 184/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_CorrianderSeeds": "1 1 2 1/fall/48/MizuLeo.HerbsFlowers_Cilantro/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_ClarySageSeeds": "1 2 3 2/summer/2/MizuLeo.HerbsFlowers_ClarySage/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_ClematisStarter": "1 2 3 2 2/fall/25/MizuLeo.HerbsFlowers_Clematis/3/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_CrocusBulb": "2 2 3 2/winter/44/418/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_CuminSeeds": "1 2 1 1/fall/49/MizuLeo.HerbsFlowers_Cumin/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_DahliaSeeds": "1 1 2 2/fall/37/MizuLeo.HerbsFlowers_Dahlia/-1/0/false/false/true 255 84 0 254 225 1 231 46 46 255 81 114/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_DaisySeeds": "1 1 1 1/summer/26/MizuLeo.HerbsFlowers_Daisy/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_DelphiniumSeeds": "1 2 3 3/spring/27/MizuLeo.HerbsFlowers_Delphinium/-1/0/false/false/true 108 167 255 174 125 255 250 247 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_DillSeeds": "1 2 2 2/spring/50/MizuLeo.HerbsFlowers_Dill/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_FairyDusterPod": "2 1 2 2/fall/9/MizuLeo.HerbsFlowers_FairyDuster/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_FennelSeeds": "1 1 2 1/fall/69/MizuLeo.HerbsFlowers_Fennel/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_FenugreekSeeds": "1 1 2 1/spring/51/MizuLeo.HerbsFlowers_Fenugreek/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_FreesiaBulb": "1 2 3 2/fall/41/MizuLeo.HerbsFlowers_Freesia/-1/0/false/false/true 255 53 124 255 97 19 255 180 0 208 83 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_GeraniumSeeds": "1 2 3 3/fall/34/MizuLeo.HerbsFlowers_Geranium/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_GingerSeeds": "1 1 2 2 1/summer/65/(O)829/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_HollySeeds": "2 3 3 2/winter/46/283/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_HoneysuckleStarter": "1 2 2 2 1/spring summer/3/MizuLeo.HerbsFlowers_Honeysuckle/3/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_HyacinthSeeds": "1 2 2 2/spring/31/MizuLeo.HerbsFlowers_Hyacinth/-1/0/false/false/true 202 147 255 253 252 255 54 125 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_HydrangeaSeeds": "2 3 3 2/summer/33/MizuLeo.HerbsFlowers_Hydrangea/-1/0/false/false/true 154 204 255 255 134 245 223 243 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_IrisBulb": "2 3 3 2/fall/38/MizuLeo.HerbsFlowers_Iris/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_LavenderSeeds": "1 1 2 2/summer/5/MizuLeo.HerbsFlowers_Lavender/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_LemongrassSeeds": "1 2 2 2/summer/52/MizuLeo.HerbsFlowers_Lemongrass/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_LicoriceSeeds": "1 2 2 2 1/spring/56/MizuLeo.HerbsFlowers_LicoriceRoot/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_LilacPod": "2 1 2 2 2/spring summer/6/MizuLeo.HerbsFlowers_Lilac/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_LilyBulb": "2 2 3 2/summer/30/MizuLeo.HerbsFlowers_Lily/-1/0/false/false/true 255 254 255 231 46 65 255 108 69 239 202 0 176 107 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_LotusStarter": "2 2 2 3 2/summer/35/MizuLeo.HerbsFlowers_Lotus/5/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_LupineSeeds": "1 2 2 2/summer/29/MizuLeo.HerbsFlowers_Lupine/-1/0/false/false/true 255 124 204 255 95 63 254 225 1 128 122 255/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_MarjoramSeeds": "1 2 2 1/spring/53/MizuLeo.HerbsFlowers_Marjoram/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_MintSeeds": "1 1 2 1/winter/60/MizuLeo.HerbsFlowers_Mint/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_MorningGloryStarter": "1 2 3 2 2/spring/43/MizuLeo.HerbsFlowers_MorningGlory/4/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_OrchidBulb": "2 3 3 2/summer fall/40/MizuLeo.HerbsFlowers_Orchid/-1/0/false/false/true 238 45 163 255 255 254 65 79 218/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_OreganoSeeds": "1 1 2 1/summer/63/MizuLeo.HerbsFlowers_Oregano/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_PansySeeds": "1 1 2 2/spring/47/MizuLeo.HerbsFlowers_Pansy/-1/0/false/false/true 254 225 1 223 24 41 167 65 239 255 255 254/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_ParsleySeeds": "1 1 2 1/spring/62/MizuLeo.HerbsFlowers_Parsley/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_PeonySeeds": "1 2 3 3/spring/32/MizuLeo.HerbsFlowers_Peony/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_PerillaSeeds": "1 1 2 1/summer/71/MizuLeo.HerbsFlowers_PerillaLeaves/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_PetuniaSeeds": "1 1 2 2/summer/39/MizuLeo.HerbsFlowers_Petunia/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_PinkCatSeeds": "1 1 1 2/spring/10/MizuLeo.HerbsFlowers_PinkCat/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_PitcherPlantStarter": "2 3 3 4 3/fall/23/MizuLeo.HerbsFlowers_PitcherPlant/-1/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_PurpleConeflowerSeeds": "1 2 3 3/fall/8/MizuLeo.HerbsFlowers_PurpleConeflower/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_RafflesiaCutting": "5 8 10 18 15/spring summer/36/MizuLeo.HerbsFlowers_Rafflesia/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_RoseSeeds": "1 1 1 1/spring summer fall/17/MizuLeo.HerbsFlowers_Rose/-1/0/false/false/true 255 88 105/Mods\\MizuLeo.HerbsFlowers\\Crops",
-					// rose variants
-					"MizuLeo.HerbsFlowers_SpringRoseStarter": "1 1 1 1 1/spring/12/MizuLeo.HerbsFlowers_SpringRose/5/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-					"MizuLeo.HerbsFlowers_SummerRoseStarter": "1 1 1 1 1/summer/13/MizuLeo.HerbsFlowers_SummerRose/5/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-					"MizuLeo.HerbsFlowers_FallRoseStarter": "1 1 1 1 1/fall/14/MizuLeo.HerbsFlowers_FallRose/5/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-					"MizuLeo.HerbsFlowers_WinterRoseStarter": "1 1 1 1 1/winter/15/MizuLeo.HerbsFlowers_WinterRose/5/0/false/true/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 	"MizuLeo.HerbsFlowers_PrismaticRoseSeeds": "1 1 1 1/spring summer fall/19/MizuLeo.HerbsFlowers_PrismaticRose/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_RosemarySeeds": "1 2 2 2/fall/64/MizuLeo.HerbsFlowers_Rosemary/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_SageSeeds": "1 1 2 1/fall/61/MizuLeo.HerbsFlowers_Sage/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_SweetPeaSeeds": "1 2 3 2/summer/45/402/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_TarragonSeeds": "1 2 2 1/fall/55/MizuLeo.HerbsFlowers_Tarragon/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_ThymeSeeds": "1 1 2 1/fall/68/MizuLeo.HerbsFlowers_Thyme/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_TurmericSeeds": "1 1 2 2 1/fall/54/MizuLeo.HerbsFlowers_Turmeric/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_VioletSeeds": "1 1 2 2/spring/28/MizuLeo.HerbsFlowers_Violet/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops",
-				 "MizuLeo.HerbsFlowers_WormwoodSeeds": "1 2 3 2/winter/70/MizuLeo.HerbsFlowers_Wormwood/-1/0/false/false/false/Mods\\MizuLeo.HerbsFlowers\\Crops"
+                "MizuLeo.HerbsFlowers_AlliumSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 1, 1, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Allium",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 21,
+					"TintColors": [ "#891dff", "#e09cff", "#b642ff", "#e8d6fb" ]
+                    },
+                "MizuLeo.HerbsFlowers_AloePod": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 1, 1, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Aloe",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 66
+                    },
+                "MizuLeo.HerbsFlowers_BasilSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Basil",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 58
+                    },
+                "MizuLeo.HerbsFlowers_BaySeeds": {
+                    "Seasons": [ "winter" ],
+                    "DaysInPhase": [ 1, 2, 3, 3 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_BayLeaves",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 67
+                    },
+                "MizuLeo.HerbsFlowers_BeeBalmSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 2, 3, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_BeeBalm",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 1
+                    },
+                "MizuLeo.HerbsFlowers_BlueMistSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 2, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_BlueMist",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 11
+                    },
+                "MizuLeo.HerbsFlowers_BluebonnetSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 2, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Bluebonnet",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 24
+                    },
+                "MizuLeo.HerbsFlowers_ButtercupSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 1, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Buttercup",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 16
+                    },
+                "MizuLeo.HerbsFlowers_CamelliaSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 2, 3, 3, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Camellia",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 22,
+					"RegrowDays": 3
+                    },
+                "MizuLeo.HerbsFlowers_CarnationSeeds": {
+                    "Seasons": [ "spring", "summer" ],
+                    "DaysInPhase": [ 1, 2, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Carnation",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 20,
+					"TintColors": [ "#e83b49", "#f983ea", "#fff8f8" ]
+                    },
+                "MizuLeo.HerbsFlowers_CatnipSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 2, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Catnip",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 72
+                    },
+                "MizuLeo.HerbsFlowers_ChamomileSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 1, 1, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Chamomile",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 0
+                    },
+                "MizuLeo.HerbsFlowers_ChiveSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Chives",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 59
+                    },
+                "MizuLeo.HerbsFlowers_ChrysanthemumSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 2, 3, 3 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Chrysanthemum",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 42,
+					"RegrowDays": 3,
+					"IsRaised": true,
+					"TintColors": [ "#ffed21", "#fffffc", "#ffb320", "#ff88b8" ]
+                    },
+                "MizuLeo.HerbsFlowers_CorrianderSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Cilantro",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 48
+                    },
+                "MizuLeo.HerbsFlowers_ClarySageSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 2, 3, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_ClarySage",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 2
+                    },
+                "MizuLeo.HerbsFlowers_ClematisStarter": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 2, 3, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Clematis",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 25
+                    },
+                "MizuLeo.HerbsFlowers_CrocusBulb": {
+                    "Seasons": [ "winter" ],
+                    "DaysInPhase": [ 2, 2, 3, 2 ],
+                    "HarvestItemId": "(O)418",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 44
+                    },
+                "MizuLeo.HerbsFlowers_CuminSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 2, 1, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Cumin",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 49
+                    },
+                "MizuLeo.HerbsFlowers_DahliaSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 1, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Dahlia",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 37,
+					"TintColors": [ "#ff5400", "#fee101", "#e72e2e", "#ff5172" ]
+                    },
+                "MizuLeo.HerbsFlowers_DaisySeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 1, 1, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Daisy",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 26
+                    },
+                "MizuLeo.HerbsFlowers_DelphiniumSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 2, 3, 3 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Delphinium",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 27,
+					"TintColors": [ "#6ca7ff", "#ae7dff", "#faf7ff" ]
+                    },
+                "MizuLeo.HerbsFlowers_DillSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 2, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Dill",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 50
+                    },
+                "MizuLeo.HerbsFlowers_FairyDusterPod": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 2, 1, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_FairyDuster",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 9
+                    },
+                "MizuLeo.HerbsFlowers_FennelSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Fennel",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 69
+                    },
+                "MizuLeo.HerbsFlowers_FenugreekSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Fenugreek",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 51
+                    },
+                "MizuLeo.HerbsFlowers_FreesiaBulb": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 2, 3, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Freesia",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 41,
+					"TintColors": [ "#ff357c", "#ff6113", "#ffb400", "#d053ff" ]
+                    },
+                "MizuLeo.HerbsFlowers_GeraniumSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 2, 3, 3 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Geranium",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 34
+                    },
+                "MizuLeo.HerbsFlowers_GingerSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 1, 2, 2, 1 ],
+                    "HarvestItemId": "(O)829",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 65
+                    },
+                "MizuLeo.HerbsFlowers_HollySeeds": {
+                    "Seasons": [ "winter" ],
+                    "DaysInPhase": [ 2, 3, 3, 2 ],
+                    "HarvestItemId": "(O)283",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 46
+                    },
+                "MizuLeo.HerbsFlowers_HoneysuckleStarter": {
+                    "Seasons": [ "spring", "summer" ],
+                    "DaysInPhase": [ 1, 2, 2, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Honeysuckle",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 3,
+					"RegrowDays": 3,
+					"IsRaised": true
+                    },
+                "MizuLeo.HerbsFlowers_HyacinthSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 2, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Hyacinth",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 31,
+					"TintColors": [ "#ca93ff", "#fdfcff", "#367bff" ]
+                    },
+                "MizuLeo.HerbsFlowers_HydrangeaSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 2, 3, 3, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Hydrangea",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 33,
+					"TintColors": [ "#9accff", "#ff86f5", "#dff3ff" ]
+                    },
+                "MizuLeo.HerbsFlowers_IrisBulb": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 2, 3, 3, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Iris",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 38
+                    },
+                "MizuLeo.HerbsFlowers_LavenderSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 1, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Lavender",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 5
+                    },
+                "MizuLeo.HerbsFlowers_LemongrassSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 2, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Lemongrass",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 52
+                    },
+                "MizuLeo.HerbsFlowers_LicoriceSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 2, 2, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_LicoriceRoot",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 56
+                    },
+                "MizuLeo.HerbsFlowers_LilacPod": {
+                    "Seasons": [ "spring", "summer" ],
+                    "DaysInPhase": [ 2, 1, 2, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Lilac",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 6
+                    },
+                "MizuLeo.HerbsFlowers_LilyBulb": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 2, 2, 3, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Lily",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 30,
+					"TintColors": [ "#fffeff", "#e72e41", "#ff6c45", "#efca00", "#b06bff" ]
+                    },
+                "MizuLeo.HerbsFlowers_LotusStarter": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 2, 2, 2, 3, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Lotus",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 35,
+					"RegrowDays": 5,
+					"IsRaised": true
+                    },
+                "MizuLeo.HerbsFlowers_LupineSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 2, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Lupine",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 29
+                    },
+                "MizuLeo.HerbsFlowers_MarjoramSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 2, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Marjoram",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 53
+                    },
+                "MizuLeo.HerbsFlowers_MintSeeds": {
+                    "Seasons": [ "winter" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Mint",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 60
+                    },
+                "MizuLeo.HerbsFlowers_MorningGloryStarter": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 2, 3, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_MorningGlory",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 43,
+					"RegrowDays": 4,
+					"IsRaised": true
+                    },
+                "MizuLeo.HerbsFlowers_OrchidBulb": {
+                    "Seasons": [ "summer", "fall" ],
+                    "DaysInPhase": [ 2, 3, 3, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Orchid",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 40,
+					"TintColors": [ "#ee2da3", "#fffffe", "#414fda" ]
+                    },
+                "MizuLeo.HerbsFlowers_OreganoSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Oregano",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 63
+                    },
+                "MizuLeo.HerbsFlowers_PansySeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 1, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Pansy",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 47,
+					"TintColors": [ "#fee101", "#df1829", "#a741ef", "#fffffe" ]
+                    },
+                "MizuLeo.HerbsFlowers_ParsleySeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Parsley",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 62
+                    },
+                "MizuLeo.HerbsFlowers_PeonySeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 2, 3, 3 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Peony",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 32
+                    },
+                "MizuLeo.HerbsFlowers_PerillaSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_PerillaLeaves",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 71
+                    },
+                "MizuLeo.HerbsFlowers_PetuniaSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 1, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Petunia",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 39
+                    },
+                "MizuLeo.HerbsFlowers_PinkCatSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 1, 1, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_PinkCat",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 10
+                    },
+                "MizuLeo.HerbsFlowers_PitcherPlantStarter": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 2, 3, 3, 4, 3 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_PitcherPlant",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 23,
+					"RegrowDays": 5,
+					"IsRaised": true
+                    },
+                "MizuLeo.HerbsFlowers_PurpleConeflowerSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 2, 3, 3 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_PurpleConeflower",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 8
+                    },
+                "MizuLeo.HerbsFlowers_RafflesiaCutting": {
+                    "Seasons": [ "spring", "summer" ],
+                    "DaysInPhase": [ 5, 8, 10, 18, 15 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Rafflesia",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 36
+                    },
+                "MizuLeo.HerbsFlowers_RoseSeeds": {
+                    "Seasons": [ "spring", "summer", "fall" ],
+                    "DaysInPhase": [ 2, 3, 4, 3 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Rose",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 17,
+					"TintColors": [ "#f52536", "#fff8f8", "#737391", "#f03888" ]
+                    },
+						// rose variants
+						"MizuLeo.HerbsFlowers_SpringRoseStarter": {
+							"Seasons": [ "spring" ],
+							"DaysInPhase": [ 2, 2, 3, 3, 2 ],
+							"HarvestItemId": "MizuLeo.HerbsFlowers_SpringRose",
+							"Texture": "{{InternalAssetKey: assets/crops.png}}",
+							"SpriteIndex": 12,
+							"RegrowDays": 5,
+							"IsRaised": true
+							},
+						"MizuLeo.HerbsFlowers_SummerRoseStarter": {
+							"Seasons": [ "summer" ],
+							"DaysInPhase": [ 2, 2, 3, 3, 2 ],
+							"HarvestItemId": "MizuLeo.HerbsFlowers_SummerRose",
+							"Texture": "{{InternalAssetKey: assets/crops.png}}",
+							"SpriteIndex": 13,
+							"RegrowDays": 5,
+							"IsRaised": true
+							},
+						"MizuLeo.HerbsFlowers_FallRoseStarter": {
+							"Seasons": [ "fall" ],
+							"DaysInPhase": [ 2, 2, 3, 3, 2 ],
+							"HarvestItemId": "MizuLeo.HerbsFlowers_FallRose",
+							"Texture": "{{InternalAssetKey: assets/crops.png}}",
+							"SpriteIndex": 14,
+							"RegrowDays": 5,
+							"IsRaised": true
+							},
+						"MizuLeo.HerbsFlowers_WinterRoseStarter": {
+							"Seasons": [ "winter" ],
+							"DaysInPhase": [ 2, 2, 3, 3, 2 ],
+							"HarvestItemId": "MizuLeo.HerbsFlowers_WinterRose",
+							"Texture": "{{InternalAssetKey: assets/crops.png}}",
+							"SpriteIndex": 15,
+							"RegrowDays": 5,
+							"IsRaised": true
+							},
+						"MizuLeo.HerbsFlowers_PrismaticRoseSeeds": {
+							"Seasons": [ "spring", "summer", "fall" ],
+							"DaysInPhase": [ 3, 6, 7, 4 ],
+							"HarvestItemId": "MizuLeo.HerbsFlowers_PrismaticRose",
+							"Texture": "{{InternalAssetKey: assets/crops.png}}",
+							"SpriteIndex": 19
+							},
+                "MizuLeo.HerbsFlowers_RosemarySeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 2, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Rosemary",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 64
+                    },
+                "MizuLeo.HerbsFlowers_SageSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Sage",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 61
+                    },
+                "MizuLeo.HerbsFlowers_SweetPeaSeeds": {
+                    "Seasons": [ "summer" ],
+                    "DaysInPhase": [ 1, 2, 3, 2 ],
+                    "HarvestItemId": "(O)402",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 45
+                    },
+                "MizuLeo.HerbsFlowers_TarragonSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 2, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Tarragon",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 55
+                    },
+                "MizuLeo.HerbsFlowers_ThymeSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 1, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Thyme",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 68
+                    },
+                "MizuLeo.HerbsFlowers_TurmericSeeds": {
+                    "Seasons": [ "fall" ],
+                    "DaysInPhase": [ 1, 1, 2, 2, 1 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Turmeric",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 54
+                    },
+                "MizuLeo.HerbsFlowers_VioletSeeds": {
+                    "Seasons": [ "spring" ],
+                    "DaysInPhase": [ 1, 1, 2, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Violet",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 28
+                    },
+                "MizuLeo.HerbsFlowers_WormwoodSeeds": {
+                    "Seasons": [ "winter" ],
+                    "DaysInPhase": [ 1, 2, 3, 2 ],
+                    "HarvestItemId": "MizuLeo.HerbsFlowers_Wormwood",
+                    "Texture": "{{InternalAssetKey: assets/crops.png}}",
+                    "SpriteIndex": 70
+                    }
 			}
         },
     ]
