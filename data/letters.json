@@ -4,12 +4,18 @@
 		{
 			"Action": "EditData",
 			"Target": "Data/Mail",
-			"Entires": {
-				"MizuLeoCatalog": "Lorum Ipsum ya ya ya ^ -Pierre [#]Flower Catalogue Available"
+			"Entries": {
+				"MizuLeoCatalog": "Hey @,^I wanted to let you know that I've gotten a new catalogue for selling herb and flower seeds! I heard from a friend in the city that demand for floral items has been increasing, so I wanted to get ahead of the curve, and ahead of Jojamart. I can't say I know much about flowers, so I'll just let you browse the catalogue yourself.^I've still got a few kinds of flowers in my own inventory, of course, and Marnie mentioned she's selling some as well. Hope you'll get good use out of it!^-Pierre[#]Flower Catalogue Available"
+			}
+		},
+		// Add Letter 'Event'
+		{
+			"Action": "EditData",
+			"Target": "Data/Events/Farm",
+			"Entries": {
+				// Send letter [decide condition, currently sends immediately]. Replace ID (first number in sequence) with Mod ID when getting ready to publish/publishing page is made
+				"01245/x MizuLeoCatalog true": "null"
 			}
 		}
 	]
 }
-
-// Planned Letter Text:
-// Hey [playername], I wanted to let you know that I've gotten a new catalogue for selling herb and flower seeds! I heard from a friend in the city that demand for floral items has been increasing, so I wanted to get ahead of the curve, and ahead of Jojamart. I can't say I know much about flowers myself, however, so I'll just let you browse the catalogue yourself. I've still got a few kinds of flowers in my own inventory, of course, and I've heard Marnie is selling a few kinds of flowers too. Hope you'll get good use out of it! -Pierre
