@@ -14,7 +14,7 @@
 			"Target": "Data/Events/Farm",
 			"Entries": {
 				// Send letter [decide condition, currently sends immediately]. Replace ID (first number in sequence) with Mod ID when getting ready to publish/publishing page is made
-				"01245/d Mon Tue Wed Thur Fri Sun/z spring fall winter/x MizuLeoCatalog": "null"
+				"01245/d Mon Tue Wed Thur Fri Sun/z spring fall winter/y 1/x MizuLeoCatalog": "null"
 			}
 		}
 	]
